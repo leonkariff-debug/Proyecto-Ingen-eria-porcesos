@@ -85,3 +85,4 @@ Este proyecto incluye `.github/workflows/pages.yml` para publicarse automáticam
 5. La URL aparecerá en **Settings → Pages** cuando termine correctamente. En un repositorio estándar será `https://USUARIO.github.io/bt-lab-planta-virtual/`, sustituyendo `USUARIO` por tu nombre de usuario real.
 
 No se requiere Node ni npm: la plataforma está construida con archivos estáticos HTML, CSS y JavaScript. El workflow publicado no altera los datos de DWSIM.
+Planta virtual interactiva de separación de benceno y tolueno mediante destilación.
