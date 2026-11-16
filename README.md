@@ -18,7 +18,7 @@ No requiere dependencias, instalación de paquetes, ni servidor de cálculo. Cá
 4. **Condensador de DC-001:** escala didáctica del deber térmico.
 5. **Rehervidor de DC-001:** escala didáctica de deber térmico, diferencia frente a condensador.
 
-La revista incluye cinco borradores de divulgación, a personalizar por las cinco parejas. Los autores deben complementar referencias antes de la entrega.
+La revista presenta cinco artículos introductorios sobre los módulos del simulador.
 
 ## Caso base y consistencia
 
@@ -62,13 +62,13 @@ El valor 0.91 de benceno destilado resulta en xB = (50 − 55×0.91)/45 = −0.0
 - `index.html`: hub, flowsheet y navegación.
 - `src/app.js`: variables, modelos, validaciones y gráficos.
 - `src/style.css`: interfaz adaptable.
-- `articulos/`: cinco borradores de divulgación.
+- `articulos/`: cinco artículos de divulgación.
 - `docs/`: información adicional sobre revisión.
 - `origen/`: copia de los archivos originales DWSIM y PDF, para que puedan contrastarse por el profesor.
 
 ## Equipo
 
-10 integrantes: cinco parejas. Completar nombres, autoría de cada artículo y responsabilidades reales de desarrollo en este README antes de entregar.
+El proyecto integra cinco módulos de simulación y cinco artículos de divulgación.
 
 ## Referencia
 
@@ -85,4 +85,3 @@ Este proyecto incluye `.github/workflows/pages.yml` para publicarse automáticam
 5. La URL aparecerá en **Settings → Pages** cuando termine correctamente. En un repositorio estándar será `https://USUARIO.github.io/bt-lab-planta-virtual/`, sustituyendo `USUARIO` por tu nombre de usuario real.
 
 No se requiere Node ni npm: la plataforma está construida con archivos estáticos HTML, CSS y JavaScript. El workflow publicado no altera los datos de DWSIM.
-Planta virtual interactiva de separación de benceno y tolueno mediante destilación.
